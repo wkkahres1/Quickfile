@@ -1,0 +1,16 @@
+-Quickfile-
+
+Thanks for using Quickfile!
+
+Created Using C# and Visual Studio
+
+This VERY simple C# code will allow the user to update the pathfile.txt to any path on their computer and open that path using the Quickfile.exe file.  It is most useful if you need to open the same file path over and over and it is buried deep in your system. Once you set it, you can add the .exe file to your desktop and use whenever you need it.
+
+Feel free to download and update pathfile.txt to your own file paths.
+
+The pathfile.txt file is located at Quickfile\bin\Debug\
+The Quickfile.exe file is located at Quickfile\bin\Debug\
+
+This code was added as my first Github repo to learn how to use Github.
+
+Copyright Walter Kahres 2020

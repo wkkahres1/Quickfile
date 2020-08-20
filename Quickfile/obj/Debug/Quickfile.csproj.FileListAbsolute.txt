@@ -1,0 +1,7 @@
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\MyProjects\QuickFile\Quickfile\bin\Debug\Quickfile.exe
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\MyProjects\QuickFile\Quickfile\bin\Debug\Quickfile.exe.config
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\MyProjects\QuickFile\Quickfile\obj\Debug\Quickfile.csprojAssemblyReference.cache
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\MyProjects\QuickFile\Quickfile\obj\Debug\Quickfile.csproj.CoreCompileInputs.cache
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\MyProjects\QuickFile\Quickfile\obj\Debug\Quickfile.exe
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\MyProjects\QuickFile\Quickfile\obj\Debug\Quickfile.pdb
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\MyProjects\QuickFile\Quickfile\bin\Debug\Quickfile.pdb
